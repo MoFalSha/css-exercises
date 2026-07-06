@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.old,
+.modern {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.old {
+  background-color: black;
+  color: white;
+}
+
+.modern {
+  background-color: hsl(60, 100%, 90%);
+}
